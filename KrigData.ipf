@@ -3265,6 +3265,7 @@ Function TopMix(ba) : ButtonControl
 			if (numtype(topRatio) == 0)
 				TopMR = topRatio
 				bg = topRatio
+				topbg = topRatio
 			else
 				TopValue()
 			endif
