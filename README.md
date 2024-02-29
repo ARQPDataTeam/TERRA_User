@@ -12,7 +12,7 @@ You must install git to install TERRA.  This can be done by downloading the file
 https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe
 
 ## Installing TERRA
-TERRA can be installed by running the TERRAInstall.cmd file located here (for ECCC users):
+TERRA can be installed by running the TERRAInstall_UserOnly.cmd file located here (for ECCC users):
 \\econl0lwpfsp001.ncr.int.ec.gc.ca\arqp_data\Resources\Software\Windows\Igor\Tool_Installers\
 And in this repo for external users.
 
