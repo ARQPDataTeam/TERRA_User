@@ -62,7 +62,7 @@ FOR %%d IN (
 			
 			REM ## Move FlaggerLoader to correct folder
 			cd !IGOR_DIR!\"User Procedures"\TERRA_User
-			COPY /y TERRALoader.ipf !IGOR_DIR!\"Igor Procedures"
+			COPY /y KrigLoader.ipf !IGOR_DIR!\"Igor Procedures"
 			COPY /y TERRA.ihf !IGOR_DIR!\"Igor Help Files"			
 
 		) 

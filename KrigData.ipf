@@ -3249,7 +3249,7 @@ Function TopMix(ba) : ButtonControl
 
 	Wave TopMR
 	Variable topRatio = 1
-	NVAR bg, Mc, totLat, totTop, units
+	NVAR bg, Mc, totLat, totTop, units, topbg
 	Wave totalAirF
 	switch( ba.eventCode )
 		case 2: // mouse up
