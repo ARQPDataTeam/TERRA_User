@@ -62,8 +62,7 @@ FOR %%d IN (
 			
 			REM ## Move FlaggerLoader to correct folder
 			cd !IGOR_DIR!\"User Procedures"\TERRA_User
-			COPY /y KrigLoader.ipf !IGOR_DIR!\"Igor Procedures"
-			COPY /y TERRA.ihf !IGOR_DIR!\"Igor Help Files"			
+			COPY /y KrigLoader.ipf !IGOR_DIR!\"Igor Procedures"		
 
 		) 
 		REM ELSE ( ECHO Igor version %%v not found, skipping )
